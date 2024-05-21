@@ -1,7 +1,7 @@
     T:Descrition U0158
 Type: Network Communication   |
 Description                   #INFO.txt
-Severity and Symptoms         #SER_SYMP.txt
-Cause                         #CAUSE.txt
+Severity and Symptoms         |SER_SYMP.txt
+Cause                         |CAUSE.txt
 Diagnostic and Repair         |
 Back                          /DTC
