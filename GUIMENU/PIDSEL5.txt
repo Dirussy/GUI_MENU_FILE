@@ -1,0 +1,10 @@
+%C2 T:PID page 5/6
+Confirm selection             #SENDCAN.txt
+Oxygen sensor 2               $D2=15
+Oxygen sensor 3               $D2=16
+Oxygen sensor 4               $D2=17
+Oxygen sensor 5               $D2=18
+Oxygen sensor 6               $D2=19
+Previous page                 #PIDSEL4.txt
+Next Page                     #PIDSEL6.txt
+Cancel                        #MENU.txt

@@ -1,0 +1,10 @@
+%C2 T:PID page 6/6
+Confirm selection             #SENDCAN.txt
+Oxygen sensor 7               $D2=1A
+Oxygen sensor 8               $D2=1B
+OBD Standards conforms        $D2=1C
+Oxygen sensor present (bank4) $D2=1D
+Auxiliary Input satuts        $D2=1E
+Run time since start          $D2=1F
+Previous page                 #PIDSEL5.txt
+Cancel                        #MENU.txt

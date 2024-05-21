@@ -1,0 +1,10 @@
+%C2 T:PID page 2/6
+Confirm selection             #SENDCAN.txt
+Short term fuel trim Bank 1   $D2=06
+Long term fuel trim Bank 1    $D2=07
+Short term fuel trim Bank 2   $D2=08
+Long term fuel trim Bank 2    $D2=09
+Fuel Pressure                 $D2=0A
+Previous Page                 #PIDSEL1.txt
+Next Page                     #PIDSEL3.txt
+Cancel                        #MENU.txt

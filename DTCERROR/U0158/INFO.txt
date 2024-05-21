@@ -1,0 +1,7 @@
+    T:ERROR U0158
+This is a generix system DTC  |
+that applies to most vehicule |
+It means that the Head Up     |
+Dysplay and other control     |
+modules are not communcating  |
+Back                          #MAININFO.txt

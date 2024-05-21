@@ -1,0 +1,10 @@
+%C2 T:PID page 4/6
+Confirm selection             #SENDCAN.txt
+Air flow rate (MSF)           $D2=10
+Throttle position             $D2=11
+Commanded Sec air status      $D2=12
+Oxygen sensor present (Bank2) $D2=13
+Oxygen sensor 1               $D2=14
+Previous page                 #PIDSEL3.txt
+Next Page                     #PIDSEL5.txt
+Cancel                        #MENU.txt

@@ -1,0 +1,5 @@
+    T:ERROR U0301
+OBD-II Code P0301 is defined  |
+as a Misfire Detected in #1   |
+Cylinder                      |
+Back                          #MAININFO.txt

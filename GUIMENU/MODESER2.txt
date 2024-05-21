@@ -1,0 +1,10 @@
+%C1 T:Service/Mode 2/2
+5:Display Oxygne sensor   N/A #NOTMADE.txt
+6:Resq for On-Board Moni  N/A #NOTMADE.txt
+7:Resq emission trouble   N/A #NOTMADE.txt
+8:Start off-board control N/A #NOTMADE.txt
+9:Get Vehicule Information    #NOTMADE.txt
+10:Permanent DTC              #NOTMADE.txt
+Back                          #CANMOD.txt
+Previous Page                 #MODESER1.txt
+Cancel                        #MENU.txt

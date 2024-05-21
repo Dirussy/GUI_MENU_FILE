@@ -1,0 +1,11 @@
+%I1 T:Default ID for Recp
+Confirm                       #ID1ACCEP.txt
+ID1 0x7E8                     $I1=7E8
+ID2 0x7E9                     $I2=7E9
+ID3 0x7EA                     $I3=7EA
+ID4 0x7EB                     $I4=7EB
+ID5 0x7EC                     $I5=7EC
+ID6 0x7ED                     $I6=7ED
+ID7 0x7EE                     $I7=7EE
+ID8 0x7EF                     $I8=7EF
+Cancel                        #MENU.txt

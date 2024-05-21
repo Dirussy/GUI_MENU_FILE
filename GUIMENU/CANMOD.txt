@@ -1,0 +1,5 @@
+%C0 T: Chose ID
+11 bits identifie (0x7DF)     /11BitsID
+29 bits id (0x18DB33F1)       /29BitsID
+Confirm Selection             #MODESER1.txt
+Cancel                        #MENU.txt

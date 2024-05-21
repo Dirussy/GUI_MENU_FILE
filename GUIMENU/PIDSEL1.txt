@@ -1,0 +1,10 @@
+%C2 T:PID page 1/6
+Confirm selection             #SENDCAN.txt
+Monitor Status                $D2=01
+DTC That cause freeze         $D2=02
+Fuel system Status            $D2=03
+Calculated engine load        $D2=04
+Engine coolant temp           $D2=05
+Back                          #MODESER1.txt
+Next Page                     #PIDSEL2.txt
+Cancel                        #MENU.txt

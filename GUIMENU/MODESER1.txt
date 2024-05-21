@@ -1,0 +1,10 @@
+%C1 T:Service/Mode 1/2
+Confirm Selection             ?LOAD.txt
+1: Show Data frame            $D1=1
+2: Make Freeze Frame Data     $D1=2
+3: List Error Code            $D1=3
+4: Clear Error Code           $D1=4
+Set Manualy                   #INPUT_D1.txt
+Back                          #CANMOD.txt
+Next Page                     #MODESER2.txt
+Cancel                        #MENU.txt

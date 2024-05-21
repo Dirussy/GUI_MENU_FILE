@@ -1,0 +1,10 @@
+%C2 T:PID page 3/6
+Confirm selection             #SENDCAN.txt
+Intake Mani absolute pressure $D2=0B
+Engine speed                  $D2=0C
+Vehicule speed                $D2=0D
+Timing advance                $D2=0E
+Intake air temperature        $D2=0F
+Previous Page                 #PIDSEL2.txt
+Next Page                     #PIDSEL4.txt
+Cancel                        #MENU.txt

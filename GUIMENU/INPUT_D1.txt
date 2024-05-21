@@ -1,0 +1,6 @@
+%C1 T:Enter S/M (0x00)
+  0x%% += 0x10                $D1+2x
+  0x%% -= 0x10                $D1-2x
+  0x%% += 0x01                $D1+1x
+  0x%% -= 0x01                $D1-1x
+Confirm                       #MODESER1.txt
