@@ -1,7 +1,7 @@
     T:Descrition P0123
 Type:Chassi                   |
-Description                   #INFO.txt
-Severity and Symptoms         #SER_SYMP.txt
-Cause                         #CAUSE.txt
+Description                   |INFO.txt
+Severity and Symptoms         |SER_SYMP.txt
+Cause                         |CAUSE.txt
 Diagnostic and Repair         |
 Back                          /DTC
